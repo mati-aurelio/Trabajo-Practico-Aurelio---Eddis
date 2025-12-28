@@ -34,5 +34,5 @@ Se implementó un modelo de **Random Forest Classifier**, seleccionado por su ro
 Los resultados confirman que la elección de carrera en Eddis sigue patrones demográficos claros. La implementación de este modelo permite a la empresa anticipar la demanda y personalizar la atención. Para futuras iteraciones, se recomienda capturar datos sobre **intereses vocacionales** y **nivel de ingresos** para romper el techo actual de precisión.
 
 ---
-**Autor:** [Tu Nombre]  
+**Autor:** Matias Aurelio  
 *Proyecto Final - Curso Data Science I*
